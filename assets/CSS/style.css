@@ -59,8 +59,9 @@ header {
    position: absolute;
    top: -1rem;
    right: -1rem;
-   width: 50vw;
+   width: 100vw;
    display: none;
+   text-align: center;
 }
 .menuTop ul {
    list-style: none;
